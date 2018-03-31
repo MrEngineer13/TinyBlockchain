@@ -3,7 +3,7 @@ package utils
 import (
 	"time"
 
-	"github.com/mrengineer13/BlockchainApi/models"
+	"../models"
 )
 
 func GetTime() string {

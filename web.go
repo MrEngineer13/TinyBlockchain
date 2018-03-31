@@ -7,8 +7,8 @@ import (
 
 	"time"
 
-	"github.com/mrengineer13/BlockchainApi/models"
-	"github.com/mrengineer13/BlockchainApi/utils"
+	"./models"
+	"./utils"
 )
 
 //// A completely random address of the owner of this node
